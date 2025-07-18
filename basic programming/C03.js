@@ -1,3 +1,4 @@
+// String
 // var s = "hello"; // primitiver string 
 // var w = s;
 // var t = new String("Hello"); //string object
